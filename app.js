@@ -38,3 +38,5 @@ const peIns = new Serie("The Seven Deadly", 3, 55);
 // console.log(pe2.reproducir())
 console.log(peIns.reproducir())
 console.log(peIns.reproducirCapitulo())
+
+console.log("Hola me falto saludar desde la consola")
