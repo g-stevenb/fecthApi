@@ -31,7 +31,7 @@ class Serie extends Pelicula {
 }
 
 const pe = new Pelicula("steven", 1);
-const pe2 = new Pelicula("SBAG", 2);
+const pe2 = new Pelicula("MI vida en 2 minutos", 2);
 const peIns = new Serie("The Seven Deadly", 3, 55);
 
 // console.log(pe.reproducir())
